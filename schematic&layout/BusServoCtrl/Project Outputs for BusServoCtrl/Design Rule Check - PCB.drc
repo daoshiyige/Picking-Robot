@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\s-k-y\Documents\altium\BusServoCtrl\PCB.PcbDoc
+Date     : 2024/7/24
+Time     : 16:02:15
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (InNet('7V4'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (7.445mil < 10mil) Between Arc (1014.646mil,914.37mil) on Top Overlay And Text "C9" (995.195mil,942.092mil) on Top Overlay Silk Text to Silk Clearance [7.445mil]
+   Violation between Silk To Silk Clearance Constraint: (8.409mil < 10mil) Between Arc (1045.354mil,914.37mil) on Top Overlay And Text "C9" (995.195mil,942.092mil) on Top Overlay Silk Text to Silk Clearance [8.409mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Arc (1105.63mil,959.646mil) on Top Overlay And Text "R4" (1085.86mil,942.106mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (8.523mil < 10mil) Between Arc (1105.63mil,990.354mil) on Top Overlay And Text "R4" (1085.86mil,942.106mil) on Top Overlay Silk Text to Silk Clearance [8.523mil]
+   Violation between Silk To Silk Clearance Constraint: (7.665mil < 10mil) Between Arc (1195mil,959.646mil) on Top Overlay And Text "C11" (1220.857mil,952.106mil) on Top Overlay Silk Text to Silk Clearance [7.665mil]
+   Violation between Silk To Silk Clearance Constraint: (8.887mil < 10mil) Between Text "C10" (1294.219mil,1339.544mil) on Top Overlay And Track (1237.677mil,1443.307mil)(1611.693mil,1443.307mil) on Top Overlay Silk Text to Silk Clearance [8.886mil]
+   Violation between Silk To Silk Clearance Constraint: (9.829mil < 10mil) Between Text "C10" (1294.219mil,1339.544mil) on Top Overlay And Track (1308.622mil,1348.504mil)(1308.622mil,1411.496mil) on Top Overlay Silk Text to Silk Clearance [9.829mil]
+   Violation between Silk To Silk Clearance Constraint: (6.144mil < 10mil) Between Text "C11" (1220.857mil,952.106mil) on Top Overlay And Track (1210.748mil,959.646mil)(1210.748mil,990.354mil) on Top Overlay Silk Text to Silk Clearance [6.144mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C8" (1445mil,1070mil) on Top Overlay And Track (1480.827mil,1019.409mil)(1480.827mil,1306.811mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (7.344mil < 10mil) Between Text "C9" (995.195mil,942.092mil) on Top Overlay And Track (1014.646mil,930.118mil)(1045.354mil,930.118mil) on Top Overlay Silk Text to Silk Clearance [7.344mil]
+   Violation between Silk To Silk Clearance Constraint: (7.895mil < 10mil) Between Text "R4" (1085.86mil,942.106mil) on Top Overlay And Track (1083.898mil,885.748mil)(1083.898mil,930.433mil) on Top Overlay Silk Text to Silk Clearance [7.895mil]
+   Violation between Silk To Silk Clearance Constraint: (7.736mil < 10mil) Between Text "R4" (1085.86mil,942.106mil) on Top Overlay And Track (1083.898mil,930.433mil)(1146.102mil,930.433mil) on Top Overlay Silk Text to Silk Clearance [7.736mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R4" (1085.86mil,942.106mil) on Top Overlay And Track (1089.882mil,959.646mil)(1089.882mil,990.354mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R4" (1085.86mil,942.106mil) on Top Overlay And Track (1105.63mil,943.898mil)(1134.567mil,943.898mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (9.791mil < 10mil) Between Text "R4" (1085.86mil,942.106mil) on Top Overlay And Track (1146.102mil,885.748mil)(1146.102mil,930.433mil) on Top Overlay Silk Text to Silk Clearance [9.791mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "SWIO   PWR+    GND" (945mil,1770.609mil) on Top Overlay And Track (1198.307mil,1709.055mil)(1198.307mil,1817.323mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (6.766mil < 10mil) Between Text "SWIO   PWR+    GND" (945mil,1770.609mil) on Top Overlay And Track (1198.307mil,1817.323mil)(1237.677mil,1856.693mil) on Top Overlay Silk Text to Silk Clearance [6.766mil]
+Rule Violations :17
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Text "Multiuse Servo Motor
+Controller
+Li Yifeng
+2024/7/24" (0mil,1870mil) on Top Overlay 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 18
+Waived Violations : 0
+Time Elapsed        : 00:00:02

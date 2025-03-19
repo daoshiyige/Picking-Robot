@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND_2520_Tai New Footprint=FP-FDSD0630-MFG
+Change Component Comment : Designator=L1 Old Comment=6.8uH New Comment=FDSD0630-H-2R2M=P3
+Change Managed Component Library Link : Designator=L1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF2F857D-B33E-4EE9-89A3-E7CAB3DABD4D Old RevisionGUID= New RevisionGUID=C773313E-34C5-4C35-8587-61F21A2378F5
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND_2520_Tai"; UniqueID = "\UFZVASYO" ("\UFZVASYO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "7.1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "17mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "6.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.118inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "2.2uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.276inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max DC Current"; Value = "7.1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "12A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.26inch"; VariantName = "[No Variations]"
