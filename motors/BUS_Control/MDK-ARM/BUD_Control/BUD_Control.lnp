@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"bud_control\startup_stm32f103xb.o"
+"bud_control\main.o"
+"bud_control\gpio.o"
+"bud_control\can.o"
+"bud_control\usart.o"
+"bud_control\stm32f1xx_it.o"
+"bud_control\stm32f1xx_hal_msp.o"
+"bud_control\stm32f1xx_hal_gpio_ex.o"
+"bud_control\stm32f1xx_hal_can.o"
+"bud_control\stm32f1xx_hal.o"
+"bud_control\stm32f1xx_hal_rcc.o"
+"bud_control\stm32f1xx_hal_rcc_ex.o"
+"bud_control\stm32f1xx_hal_gpio.o"
+"bud_control\stm32f1xx_hal_dma.o"
+"bud_control\stm32f1xx_hal_cortex.o"
+"bud_control\stm32f1xx_hal_pwr.o"
+"bud_control\stm32f1xx_hal_flash.o"
+"bud_control\stm32f1xx_hal_flash_ex.o"
+"bud_control\stm32f1xx_hal_exti.o"
+"bud_control\stm32f1xx_hal_tim.o"
+"bud_control\stm32f1xx_hal_tim_ex.o"
+"bud_control\stm32f1xx_hal_uart.o"
+"bud_control\system_stm32f1xx.o"
+--strict --scatter "BUD_Control\BUD_Control.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "BUD_Control.map" -o BUD_Control\BUD_Control.axf

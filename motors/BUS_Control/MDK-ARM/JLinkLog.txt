@@ -1,0 +1,47 @@
+T2260 001:816.920   SEGGER J-Link V7.92k Log File
+T2260 001:818.783   DLL Compiled: Oct 18 2023 14:58:31
+T2260 001:818.812   Logging started @ 2024-07-29 11:01
+T2260 001:818.837   Process: D:\Keil_v5\UV4\UV4.exe
+T2260 001:818.878 - 1818.862ms
+T2260 001:818.920 JLINK_SetWarnOutHandler(...)
+T2260 001:818.947 - 0.035ms
+T2260 001:818.974 JLINK_OpenEx(...)
+T2260 001:820.777   
+  ***** Error: 
+T2260 001:820.896   Cannot connect to J-Link.
+T2260 001:821.427 - 2.439ms returns "Cannot connect to J-Link."
+T2260 001:821.849 
+  ***** Warning: 
+T2260 001:821.931 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T2260 001:821.975 JLINK_GetHardwareVersion()
+T2260 001:823.204   
+  ***** Error: 
+T2260 001:823.558   Cannot connect to J-Link.
+T2260 001:823.827 - 1.851ms
+T2260 011:052.427 JLINK_IsOpen()
+T2260 011:052.507 - 0.050ms returns 0x00
+T2260 011:052.528 JLINK_EMU_SelectByUSBSN(SerialNo = 0)
+T2260 011:053.668 - 1.145ms returns 0xFFFFFFFF
+T2260 011:053.712 JLINK_EnableLog(...)
+T2260 011:053.721 - 0.009ms
+T2260 011:053.755 JLINK_SetLogFile(...)
+T2260 011:053.765 - 0.034ms
+T2260 011:053.775 JLINK_SetWarnOutHandler(...)
+T2260 011:053.784 - 0.008ms
+T2260 011:053.793 JLINK_OpenEx(...)
+T2260 011:054.930   
+  ***** Error: 
+T2260 011:054.966   Cannot connect to J-Link.
+T2260 011:055.259 - 1.465ms returns "Cannot connect to J-Link."
+T2260 011:055.625 
+  ***** Warning: 
+T2260 011:055.650 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T2260 011:055.666 JLINK_GetHardwareVersion()
+T2260 011:056.984   
+  ***** Error: 
+T2260 011:057.023   Cannot connect to J-Link.
+T2260 011:057.294 - 1.627ms
+T2260 012:368.749 JLINK_Close()
+T2260 012:368.932 - 0.182ms
+T2260 012:369.386   
+T2260 012:369.407   Closed
