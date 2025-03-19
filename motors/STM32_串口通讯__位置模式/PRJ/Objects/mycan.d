@@ -1,0 +1,13 @@
+.\objects\mycan.o: ..\BSP\MyCAN.c
+.\objects\mycan.o: ..\APP\stm32f10x.h
+.\objects\mycan.o: ..\CMSIS\core_cm3.h
+.\objects\mycan.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mycan.o: ..\CMSIS\system_stm32f10x.h
+.\objects\mycan.o: ..\APP\stm32f10x_conf.h
+.\objects\mycan.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\mycan.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_gpio.h
+.\objects\mycan.o: ..\APP\stm32f10x.h
+.\objects\mycan.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_rcc.h
+.\objects\mycan.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_usart.h
+.\objects\mycan.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\misc.h
+.\objects\mycan.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_can.h
